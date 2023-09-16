@@ -2,7 +2,7 @@
 #include<conio.h>
 int main ()
 {
-	int no = 15, i = 0;
+	int no = 0, i = 0;
 	
 	printf("\n enter a  number = ");
 	scanf("%d",&no);
